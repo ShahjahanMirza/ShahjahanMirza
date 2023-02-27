@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShahjahanMirza
-- 👀 I’m interested in becoming a Data scientist  
-- 🌱 I’m currently learning python 
+- ✨ I'm in 2nd year of my BSCS
+- 👀 I’m interested in becoming a Data scientist/Machine Learning Engineer  
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on data projects 
 - 📫 How to reach me..? just a text away
 
