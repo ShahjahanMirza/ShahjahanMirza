@@ -1,9 +1,15 @@
 
 # Hi, I'm Shahjahan! 👋
 
-
 ## 🚀 About Me
-I'm a Machine Learning enthusiast.
+I'm a Machine Learning enthusiast. 
+🧠 I'm currently learning Machine learning
+
+👯‍♀️ I'm looking to collaborate on Data Science Projects
+
+📫 You can contact me on my LinkedIn
+
+⚡️ I am 21 
 
 
 ## 🔗 Links
@@ -25,18 +31,6 @@ I'm a Machine Learning enthusiast.
 3. Data Science
 4. Machine Learning
 5. PowerBi / Tableau
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Data Analysis Projects
-
-🧠 I'm currently learning Machine learning
-
-👯‍♀️ I'm looking to collaborate on Data Science Projects
-
-📫 You can contact me on my LinkedIn
-
-⚡️ I am 21 
 
 ## Summary Of My Journey So Far
 
