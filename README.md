@@ -11,6 +11,9 @@ I'm a Machine Learning enthusiast.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaju_official)
 [![medium](https://img.shields.io/badge/-MEDIUM-black)](https://medium.com/@03318325446sm)
 
+## Some ML Programs
+ - [Multiple Disease Predictor](https://shahjahanmirza-multiple-disease-predictor-system-main-b499rx.streamlit.app/)
+
 ## 🛠 Skills
 1. Python
 2. Data Analysis
@@ -40,9 +43,9 @@ I'm a Machine Learning enthusiast.
 
 😏 Also, i have a certificate of Databases and Sql for Data Science from Coursera
 
-🥰 Currently, I'm doing Data Science from IBM skills network on Coursera
+🥰 I completed Data Science from IBM on Coursera certification
 
-🤑 Looking forward to move towards Machine Learning
+🤑 Moving towards Machine Learning
 ## License
  
  - [IBM Data Science](https://coursera.org/share/ff51c725eca09d33396e564f7c95c04d)
