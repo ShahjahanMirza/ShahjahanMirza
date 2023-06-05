@@ -44,10 +44,13 @@ I'm a Machine Learning enthusiast.
 
 🤑 Looking forward to move towards Machine Learning
 ## License
-
- - [Data Analysis with Python](https://coursera.org/share/138975e26aaadc5d44621087b7b49d4e)
+ 
+ - [IBM Data Science](https://coursera.org/share/ff51c725eca09d33396e564f7c95c04d)
  - [Databases and SQL](https://coursera.org/share/4a9d23a7918ff43f979f8ef4ff14e187)
  - [Exploratory Data Analysis for Machine Learning](https://coursera.org/share/1f30101b46cfc32428e63044acf730f4)
+ - [Data Analysis with Python](https://coursera.org/share/138975e26aaadc5d44621087b7b49d4e)
+
+
 ## What I Use
 ![242042650-436eb989-9666-4a79-93cb-ef23f0257952](https://github.com/ShahjahanMirza/ShahjahanMirza/assets/103453568/95e1538c-544c-45ed-a94b-28e685cb41cd)
 
