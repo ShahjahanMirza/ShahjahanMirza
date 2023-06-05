@@ -28,7 +28,7 @@ I'm a Machine Learning enthusiast.
 
 📫 You can contact me on my LinkedIn
 
-⚡️ Fun fact: I'm only 20 
+⚡️ I am 21 
 
 ## Summary Of My Journey So Far
 
