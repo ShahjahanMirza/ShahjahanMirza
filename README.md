@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm becoming a Data Scientist
+I'm a Machine Learning enthusiast.
 
 
 ## 🔗 Links
