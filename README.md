@@ -13,6 +13,11 @@ I'm a Machine Learning enthusiast.
 
 ## Some ML Programs
  - [Multiple Disease Predictor](https://shahjahanmirza-multiple-disease-predictor-system-main-b499rx.streamlit.app/)
+ - [Calories Burnt Predictor](https://shahjahanmirza-calories-burnt-main-1ozxy5.streamlit.app/)
+ - [Emotions Recognizer](https://shahjahanmirza-emotions-recognizer-main-17mh24.streamlit.app/) 
+ - [Book Recommender](https://shahjahanmirza-book-recommender-main-zu7bhh.streamlit.app/)
+ - [Stock Price](https://shahjahanmirza-stock-price-main-gtzl53.streamlit.app/)
+ - [Movie Recommender](https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/)
 
 ## 🛠 Skills
 1. Python
