@@ -49,7 +49,7 @@ I'm becoming a Data Scientist
  - [Databases and SQL](https://coursera.org/share/4a9d23a7918ff43f979f8ef4ff14e187)
  - [Exploratory Data Analysis for Machine Learning](https://coursera.org/share/1f30101b46cfc32428e63044acf730f4)
 ## What I Use
-![68747470733a2f2f627573696e657373746f79732e696e2f6173736574732f70726f6772616d732f66756c6c2d737461636b2d646174612d736369656e63652d70726f66657373696f6e616c2d70726f6772616d2f746f6f6c732e706e67](https://github.com/ShahjahanMirza/ShahjahanMirza/assets/103453568/436eb989-9666-4a79-93cb-ef23f0257952)
+![242042650-436eb989-9666-4a79-93cb-ef23f0257952](https://github.com/ShahjahanMirza/ShahjahanMirza/assets/103453568/95e1538c-544c-45ed-a94b-28e685cb41cd)
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=ShahjahanMirza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
