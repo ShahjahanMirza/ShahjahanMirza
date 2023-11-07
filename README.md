@@ -32,6 +32,7 @@ I'm a Machine Learning enthusiast.
 3. Data Science
 4. Machine Learning
 5. PowerBi / Tableau
+6. Deep learning
 
 ## Summary Of My Journey So Far
 
