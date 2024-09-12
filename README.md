@@ -33,6 +33,12 @@ I'm a Machine Learning enthusiast.
 4. Machine Learning
 5. PowerBi / Tableau
 6. Deep learning
+7. Generative AI
+8. AI Tools
+9. Automation (Make, n8n, Zapier)
+10. Flask
+11. Basic Web Development
+    
 
 ## Summary Of My Journey So Far
 
